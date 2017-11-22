@@ -2,19 +2,23 @@
   "devices": [
     {
       "macid": "015010450004123",
-      "shortid": "1234"
+      "shortid": "1234",
+      "command" : "ON/OFF"
     },
     {
       "macid": "015030405041234",
-      "shortid": "2405"
+      "shortid": "2405",
+      "command" : "ON/OFF"
     },
     {
       "macid": "01540504051256",
-      "shortid": "abcd"
+      "shortid": "abcd",
+      "command" : "ON/OFF"
     },
     {
       "macid": "013040500451256",
-      "shortid": "bcde"
+      "shortid": "bcde",
+      "command" : "ON/OFF"
     }
   ]
 }
