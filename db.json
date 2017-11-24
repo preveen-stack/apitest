@@ -24,6 +24,11 @@
       "macid": "013040500951256",
       "shortid": "beef",
       "command" : "ON/OFF"
+    },
+    {
+      "macid": "014040500451278",
+      "shortid": "acde",
+      "command" : "ON/OFF"
     }
   ]
 }
