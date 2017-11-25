@@ -2,8 +2,8 @@
   "devices": [
     {
       "macid": "015010450004123",
-      "shortid": "1234",
-      "command" : "ON/OFF"
+      "shortid": "3478",
+      "command" : "TOGGLE"
     },
     {
       "macid": "015030405041234",
