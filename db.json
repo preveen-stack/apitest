@@ -8,7 +8,7 @@
     {
       "macid": "015030405041234",
       "shortid": "2405",
-      "command" : "ON/OFF"
+      "command" : "TOGGLE"
     },
     {
       "macid": "015405040512568",
