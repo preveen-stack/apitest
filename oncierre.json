@@ -1,0 +1,26 @@
+{
+"wifi-101" : {
+  "hub_id" : "ONCR--BETA--101",
+  "auth" : "**********",
+  "devices" : {
+    "sensor_1" : {
+      "mac" : 123456678,
+      "area" : "bedroom",
+    },
+    "sensor_2" : {
+    },
+    "sensor_3" : {
+    },
+    "sensor_4" : {
+    },
+    "sensor_5" : {
+    },
+    
+  "wifi-102" : {
+  
+  },
+  "wifi-013" : {
+  
+  },
+      
+}
